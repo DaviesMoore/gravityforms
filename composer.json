@@ -1,9 +1,12 @@
- {
-  "name": "DaviesMoore/gravityforms",
-  "version": "master",
-  "type": "wordpress-plugin",
-  "repositories": [{
-    "type": "git",
-    "url": "git@github.com:DaviesMoore/gravityforms.git"
-  }]
- }
+{
+  "type": "package",
+  "package": {
+   "name": "daviesmoore/gravityforms",
+   "version": "master",
+   "type": "wordpress-plugin",
+   "source": {
+     "type": "vcs",
+     "url": "git@github.com:DaviesMoore/gravityforms.git"
+   }
+  }
+}

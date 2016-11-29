@@ -1,0 +1,8 @@
+ {
+  "name": "DaviesMoore/gravityforms",
+  "type": "wordpress-plugin",
+  "repositories": [{
+    "type": "vcs",
+    "url": "git@github.com:DaviesMoore/gravityforms.git"
+  }]
+ }
